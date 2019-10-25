@@ -19,4 +19,5 @@ dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
     compile group: 'org.takes', name: 'takes', version: '1.11.3'
     compile group: 'commons-cli', name: 'commons-cli', version: '1.4'
+    implementation("com.squareup.okhttp3:okhttp:4.2.1")
 }

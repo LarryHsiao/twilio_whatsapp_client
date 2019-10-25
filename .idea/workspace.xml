@@ -23,8 +23,7 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d68f465d-0f1b-4165-98e3-11d4e9b1689f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="d68f465d-0f1b-4165-98e3-11d4e9b1689f" name="Default Changelist" comment="echo when message received">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/larryhsiao/twillio_whatsapp_client/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/larryhsiao/twillio_whatsapp_client/Main.java" afterDir="false" />
@@ -68,6 +67,20 @@
     </option>
     <option name="diffsInCommentsNonSignificant" value="false" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -95,11 +108,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -169,7 +188,9 @@
       <option name="presentableId" value="Default" />
       <updated>1571894977084</updated>
       <workItem from="1571894978781" duration="1143000" />
-      <workItem from="1571896877853" duration="1416000" />
+      <workItem from="1571896877853" duration="2897000" />
+      <workItem from="1571901669667" duration="435000" />
+      <workItem from="1571981246155" duration="5226000" />
     </task>
     <task id="LOCAL-00001" summary="project skeleton">
       <created>1571895866470</created>
@@ -178,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571895866470</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Endpoints">
+      <created>1571898360002</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571898360002</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +227,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project skeleton" />
-    <option name="LAST_COMMIT_MESSAGE" value="project skeleton" />
+    <MESSAGE value="Endpoints" />
+    <MESSAGE value="echo when message received" />
+    <option name="LAST_COMMIT_MESSAGE" value="echo when message received" />
   </component>
 </project>
