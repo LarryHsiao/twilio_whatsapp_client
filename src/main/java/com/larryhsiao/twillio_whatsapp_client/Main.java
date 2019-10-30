@@ -56,6 +56,7 @@ public class Main {
                                         .add("From", form.single("To"))
                                         .add("Body", "Hello there " + form.single("Body"))
                                         .add("To", form.single("From"))
+                                        .add("MediaUrl","https://demo.twilio.com/owl.png?_ga=2.190318443.1560312424.1572420697-1071513074.1571815802")
                                         .build())
                                     .addHeader("Authorization", Credentials.basic(accountId, authToken))
                                     .build()
